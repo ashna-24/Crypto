@@ -9,7 +9,7 @@
 
 .cryptoimg{
     width: 1340px;
-    height: 830px;
+    height: 950px;
 }
 
 .pointer{
@@ -30,6 +30,26 @@
 
 .header{
     margin-left: 60px;
+}
+
+.fsize14{
+    font-size: 14px;
+}
+
+.fweight700{
+    font-weight: 700;
+}
+
+.fweight400{
+    font-weight: 400;
+}
+
+.colorcc{
+    color: #cccccc;
+}
+
+.fsize15{
+    font-size: 15px;
 }
 
 .sidenavbar{
@@ -79,8 +99,7 @@
 }
 
 .topcrypto{
-    
-    top: 150px;
+    top: 200px;
     left: 55px;
 
 }
@@ -96,8 +115,6 @@
 }
 
 .index{
-    font-size: 14px;
-    font-weight: 700;
     color: #cccccc;
     padding-right: 10px;
 }
@@ -111,7 +128,6 @@
 
 .project{
     line-height: 58px;
-    font-weight: 700;
     color: #ffffff;
     font-size: 48px;
 }
@@ -119,14 +135,12 @@
 .description{
     color: #cccccc;
     font-size: 16px;
-    font-weight: 400;
     margin-top: 30px;
     width: 490px;
 }
 
 .ends{
     font-size: 17px;
-    font-weight: 400;
     color: #ffffff;
     margin-top: 40px; 
 }
@@ -152,13 +166,10 @@
 }
 
 .zerodata{
-    font-size: 14px;
-    font-weight: 700;
     color: rgba(255,255,255,0.8);
 }
 
 .token{
-    font-weight: 700;
     font-size: 13px;
     border-radius: 10px;
     background-color: #f3ba40;
@@ -170,7 +181,6 @@
 }
 
 .whitepaper{
-    font-weight: 700;
     font-size: 13px;
     border-radius: 10px;
     border: 1px solid #cccccc;
@@ -186,7 +196,6 @@
 }
 
 .tokenprice{
-    font-weight: 400;
     color: #bebebe;
     font-size: 21px;
     margin: 40px 0px;
@@ -218,18 +227,15 @@
 .texttop{
     font-weight: 600;
     color: #f3ba40;
-    font-size: 14px;
 }
 
 .textset{
     font-size: 30px;
     line-height: 36px;
-    font-weight: 700;
     color: #ffffff;
 }
 
 .smart{
-    font-weight: 400;
     font-size: 20px;
     color: #ffffff;
     margin-top: 20px;
@@ -249,7 +255,6 @@
     color: #cccccc;
     width: 270px;
     margin-top: 15px;
-    font-weight: 400;
     font-size: 16px;
 }
 
@@ -278,7 +283,6 @@
 .tokn{
     line-height: 36px;
     margin-bottom: 50px;
-    font-weight: 700;
     color: #ffffff;
     font-size: 30px;
 }
@@ -286,9 +290,7 @@
 .toknp{
     line-height: 1.8;
     color: #cccccc;
-    font-weight: 400;
     width: 295px;
-    font-size: 15px;
 }
 
 .toknspan{   
@@ -302,7 +304,6 @@
 .community{
     font-size: 16px;
     color: #ffffff;
-    font-weight: 700;
 }
 
 .bold{
@@ -310,8 +311,6 @@
 }
 
 .right{
-    font-size: 14px;
-    font-weight: 700;
     color: #ffffff;
 }
 
@@ -353,6 +352,7 @@
 
 .setfour{
     background-color: #242424;
+    padding-bottom: 100px;
 }
 
 .checkicon{
@@ -362,7 +362,6 @@
 .roadmap{
     line-height: 36px;
     margin-bottom: 50px;
-    font-weight: 700;
     color: #ffffff;
     font-size: 30px; 
 }
@@ -371,7 +370,6 @@
     margin-bottom: 7px;
     font-size: 17px;
     color: #ffffff;
-    font-weight: 700;
 }
 
 .roadmapp{
@@ -385,7 +383,6 @@
 }
 
 .roadp{
-    font-size: 15px;
     color: #cccccc;
     line-height: 1.8;
     width: 275px;
@@ -396,7 +393,6 @@
 }
 
 .amazing{
-    font-size: 14px;
     font-weight: 600;
     margin-bottom: 20px;
     color: #f3ba40; 
@@ -404,7 +400,6 @@
 
 .team{
     line-height: 36px;
-    font-weight: 700;
     margin-bottom: 50px;
     font-size: 36px;
     color: #ffffff;
@@ -434,7 +429,6 @@
 
 .name{
     color: #ffffff;
-    font-weight: 700;
     font-size: 16px;
     margin-bottom: 12px;
     font-size: 17px;
@@ -442,7 +436,6 @@
 
 .post{
     color: #f3ba40;
-    font-weight: 700;
     font-size: 13px;
     margin-bottom: 12px;
 }
@@ -460,21 +453,16 @@
     text-align: justify;
     line-height: 1.8;
     color: #cccccc;
-    font-weight: 400;
-    font-size: 15px;
 }
 
 .width{
     line-height: 1.8;
     color: #cccccc;
-    font-weight: 400;
-    font-size: 14px;
     width: 208px; 
 }
 
 .para{
     color: #cccccc;
-    font-weight: 400;
     font-size: 16px;
     margin-left: 134px;
 }
@@ -494,14 +482,12 @@
 }
 
 .publish{
-    font-weight: 700;
     color: #ffffff;
     font-size: 36px;
 }
 
 .partners{
     color: #f3ba40;
-    font-size: 14px;
 }
 
 .quotes{
@@ -520,16 +506,13 @@
     margin-top: 15px;
     margin-bottom: 2px;
     color: #ffffff;
-    font-weight: 700;
     width: 125px;
 }
 
 .news{
     color: #8d8d8d;
     margin-bottom: 15px;
-    font-weight: 400;
     padding-right: 35px;
-    font-size: 15px; 
 }
 
 .bottom{
@@ -561,7 +544,6 @@
 
 .number{
     font-size: 30px;
-    font-weight: 700;
     text-align: center;
     height: 70px;
     line-height: 70px;
@@ -575,7 +557,6 @@
     right: 30px;
     padding: 1px 7px;
     color: #fff;
-    font-weight: 700;
     background-color: #f3ba40;
     border-radius: 11px;
     font-size: 13px;
@@ -584,7 +565,6 @@
 
 .month{
     font-size: 13px;
-    font-weight: 700;
     text-align: center;
     color: #cccccc;
     margin-top: 8px; 
@@ -592,7 +572,6 @@
 
 .newshead{
     font-size: 20px; 
-    font-weight: 700;
     color: #ffffff;
     margin-bottom: 10px;
     margin-top: 16px;
@@ -605,8 +584,6 @@
 .newspara{
     line-height: 1.8;
     color: #cccccc;
-    font-weight: 400;
-    font-size: 15px;
     width: 290px;
 }
 
@@ -676,7 +653,6 @@
 
 .latest{
     line-height: 36px;
-    font-weight: 700;
     padding: 20px 405px;
     font-size: 36px;
     color: #ffffff;
@@ -684,11 +660,9 @@
 
 .latestpara{
     line-height: 24px;
-    font-size: 15px;
     padding: 0px 395px;
     color: #e2e2e2;
     margin-bottom: 30px;
-    font-weight: 400;
 }
 
 .emailinput{
@@ -698,7 +672,6 @@
     border: 1px solid #e3e3e3;
     font-style: italic;
     width: 450px;
-    font-size: 15px;
     color: #8d8d8d;
     margin: 0px 12px 10px 0px;
 }
@@ -706,9 +679,7 @@
 .subscribe{
     border-radius: 10px;
     padding: 13px 30px;
-    font-weight: 700;
     color: #000000;
-    font-size: 15px;
     background-color: #f3ba40;
     color: #353535;
     border: none;
@@ -717,7 +688,6 @@
 .follow{
     margin: 25px 0px 30px 0px;
     font-size: 18px;
-    font-weight: 700;
     color: #ffffff;
 }
 
@@ -746,7 +716,6 @@
 .dates{
     font-size: 16px;
     margin: 0 0 20px;
-    font-weight: 700;
     color: #ffffff;
 }
 
@@ -757,8 +726,6 @@
 .datep{
     line-height: 1.8;
     color: #cccccc;
-    font-weight: 400;
-    font-size: 15px;
 }
 
 .footer{
@@ -769,7 +736,6 @@
 .onetext{
     color: #ffffff;
     font-size: 20px;
-    font-weight: 700;
     margin-bottom: 25px;
 }
 
@@ -778,8 +744,6 @@
     margin: 0px 0px 10px;
     padding: 0px 45px 15px 0px;
     color: #bebebe;
-    font-weight: 400;
-    font-size: 15px;
 }
 
 .sales{
@@ -792,18 +756,14 @@
     color: #ffffff;
     padding-top: 2px;
     margin-bottom: 8px;
-    font-size: 15px;
-    font-weight: 700;
 }
 
-.salespara{
+.salespara:hover{
     color: #ea9322;
 }
 
 .salestext{
     color: #cccccc;
-    font-weight: 400;
-    font-size: 15px;
 }
 
 .dtls{
@@ -813,14 +773,11 @@
 .contactset{
     margin-bottom: 15px;
     color: #bebebe;
-    font-weight: 400;
-    font-size: 15px;
 }
 
 .footerbottom{
     font-size: 16px;
     color: #bebebe;
-    font-weight: 400;
     padding: 30px 0px;
     background-color: #353535;
 }
