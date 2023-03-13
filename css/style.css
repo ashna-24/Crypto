@@ -180,15 +180,25 @@
     margin-right: 40px;
 }
 
+.token:hover{
+    background-color: #ffd83c;
+}
+
 .whitepaper{
     font-size: 13px;
     border-radius: 10px;
-    border: 1px solid #cccccc;
+    border: 2px solid #cccccc;
     background-color: transparent;
     color: #cccccc;
     box-shadow: 0 6px 40px rgb(0 0 0 / 25%);
     padding: 16px 36px;
     margin-right: 40px;    
+}
+
+.whitepaper:hover{
+    background-color: rgba(255,255,255,0);
+    color: #f3ba40;
+    border: 2px solid #f3ba40;
 }
 
 .button{
