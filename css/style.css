@@ -8,7 +8,7 @@
 }
 
 .cryptoimg{
-    width: 1340px;
+    width: 1349px;
     height: 950px;
 }
 
@@ -167,6 +167,10 @@
 
 .zerodata{
     color: rgba(255,255,255,0.8);
+}
+
+.mainbody{
+    width: 1349px;
 }
 
 .token{
@@ -721,6 +725,7 @@
 .data{
     background-color: #353535;    
     border-radius: 10px;
+    margin: 0px 110px;
 }
 
 .dates{
