@@ -71,10 +71,10 @@
 }
 
 #iconanimation{
-    animation-name: icoset;
+    animation-name: iconset;
     animation-duration: 1s;
     position: relative;
-    animation-timing-function:ease-in;
+    animation-timing-function:ease-in-out;
 }
 
 @keyframes iconset{
@@ -152,6 +152,11 @@
 
 .icontwo{
     padding: 6px 5px;
+}
+
+#iconid:hover{
+    color: #f3ba40 !important;
+    cursor: pointer;
 }
 
 .iconhover:hover{
