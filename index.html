@@ -10,9 +10,11 @@
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/media.css">
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <script src="assets/jquery.js"></script>
         <script src="js/jevelin.js"></script>
+        <script src="js/navbar.js"></script>
         <script src="assets/font.js"></script>
         <script src="assets/bootstrap.js"></script>     
     </head>
@@ -63,30 +65,33 @@
                     <div class="header pointer">
                         <img src="assets/logo.png" src="Not Found" class="cryptologo">
                     </div>
-                    <div class="headerRight d-flex">
-                        <div class="hrText">
+                    <div class="headerRight d-flex topnav" id="navbar">
+                        <a class="hrText">
                             <h2 class="index fweight700 fsize14 pointer">Home</h2>
-                        </div>
-                        <div class="hrText">
+                        </a>
+                        <a class="hrText">
                             <h2 class="index fweight700 fsize14 pointer">Services</h2>
-                        </div>
-                        <div class="hrText">
+                        </a>
+                        <a class="hrText">
                             <h2 class="index fweight700 fsize14 pointer">Roadmap</h2>
-                        </div>
-                        <div class="hrText">
+                        </a>
+                        <a class="hrText">
                             <h2 class="index fweight700 fsize14 pointer">Experts</h2>
-                        </div>
-                        <div class="hrText">
+                        </a>
+                        <a class="hrText">
                             <h2 class="index fweight700 fsize14 pointer">Blog</h2>
-                        </div>
-                        <div class="hrText">
+                        </a>
+                        <a class="hrText">
                             <h2 class="index fweight700 fsize14 pointer">Contacts</h2>
-                        </div>
-                        <div class="pointer">
+                        </a>
+                        <a class="pointer">
                             <i class='fab fa-twitter' style='font-size:18px; color:rgb(231,231,231); margin-left: 15px'></i>
                             <i class='fab fa-facebook-f' style='font-size:18px; color:rgb(231,231,231); margin-left: 15px'></i>
                             <i class='fab fa-instagram' style='font-size:18px; color:rgb(231,231,231); margin-left: 15px'></i>
-                        </div>
+                        </a>
+                        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                            <i class="fa fa-bars" id="mediaset" style='font-size:75px; color:rgb(231,231,231);'></i>
+                        </a>
                     </div>
                 </div>
                 <div class="absolute topcrypto">
