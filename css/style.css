@@ -109,6 +109,14 @@
     }
 }
 
+.navSet1{
+    text-decoration: none;
+}
+
+.navSet1:hover{
+    text-decoration: none;
+}
+
 #iconanimation{
     animation-name: iconset;
     animation-duration: 1s;

@@ -3,5 +3,363 @@
         display: none !important;
     }
 
-    
+    .maincontent{
+        width: 1278px;
+    }
+
+    .topcrypto {
+        top: 445px;
+    }
+
+    .cryptoimg{
+        width: 1278px;
+        height: 2975px;
+    }
+
+    .crypto{
+        top: 70px;
+        width: 1278px;
+    }
+
+    .header{
+        margin-left: 40px;
+    }
+
+    .cryptologo{
+        width: 500px;
+    }
+
+    #mediaset{
+        font-size: 95px !important;
+    }
+
+    .project {
+        line-height: 175px;
+        font-size: 119px;
+    }
+
+    .icolanding {
+        font-size: 60px;
+    }
+
+    .description {
+        font-size: 70px;
+        margin-top: 95px;
+        width: auto;
+    }
+
+    .ends {
+        font-size: 70px;
+    }
+
+    .weekdata {
+        margin: 35px 0px 50px 0px;
+    }
+
+    .week {
+        padding: 5px 40px;
+        border-right: 1px solid #cccccc;
+    }
+
+    .zero {
+        font-size: 140px;
+        line-height: 1.6;
+        font-weight: bold;
+    }
+
+    .zerodata{
+        font-size: 50px;
+
+    }
+
+    .token {
+        font-size: 45px;
+        border-radius: 20px;
+        padding: 50px 75px;
+    }
+
+    .tokenprice {
+        font-size: 60px;
+        margin: 100px 0px;
+    }
+
+    .whitepaper {
+        font-size: 45px;
+        border-radius: 20px;
+        border: 6px solid #cccccc;
+        padding: 50px 75px;
+    }
+
+    #whiteicon{
+        font-size: 60px !important;
+        margin-right: 40px;
+    }
+
+    .texttop{
+        font-size: 60px;
+    }
+
+    .mainrowset {
+        margin-left: 75px;
+    }
+
+    .wallet {
+        margin-top: 60px;
+        border-radius: 35px;
+        height: 1100px;
+        margin-right: 55px;
+    }
+
+    .settwotext{
+        width: 1029px;
+        text-align: center;
+        top: 130px;
+    }
+
+    #glassicon{
+        font-size: 850px !important;
+    }
+
+    #iconanimation{
+        font-size: 130px !important;
+        margin:0px 0px 50px 0px !important;
+    }
+
+    .tokn {
+        font-size: 90px;
+    }
+
+    .toknspan{
+        font-size: 65px;
+    }
+
+    .line, .devepline, .linetoken, .marketline {
+        height: 20px;
+        margin: 60px 0px 100px 0px;
+        border-radius: 10px;
+    }
+
+    .percentage{
+        font-size: 55px;
+    }
+
+    .community {
+        font-size: 74px;
+    }
+
+    .tokendistribution {
+        padding: 0px 200px 0px 100px;
+    }
+
+    .toknp {
+        font-size: 65px;
+        width: auto;
+    }
+
+    .bold {
+        margin-bottom: 70px;
+    }
+
+    .laptop {
+        margin-bottom: 70px;
+        width: 1155px;
+    }
+
+    .smart {
+        font-size: 73px;
+        margin-top: 25px;
+    }
+
+    .mainrow{
+        padding: 130px 100px 0px 100px;
+    }
+
+    .mainrowtwo{
+        padding: 0px 100px 85px 100px;
+    }
+
+    .smartp {
+        line-height: 1.8;
+        width: auto;
+        font-size: 60px;
+    }
+
+    .settwoimg{
+        width: 815px;
+    }
+
+    .text {
+        top: 359px;
+        left: 175px;
+    }
+
+    .textset {
+        font-size: 77px;
+        line-height: 115px;
+    }
+
+    #mediaicon{
+        font-size: 80px !important;
+        margin-right:60px !important;
+    }
+
+    .padding {
+        padding: 0px 20px 0px 80px;
+    }
+
+    .roadmap {
+        margin: 45px 0px 185px 0px;
+        font-size: 86px;
+    }
+
+    .roadmapp {
+        font-size: 50px;
+    }
+
+    .amazing{
+        font-size: 60px;
+    }
+
+    .experts {
+        margin: 0px 50px;
+    }
+
+    .roadp{
+        font-size: 61px;
+        padding: 20px 200px 20px 0px;
+        width: auto;
+    }
+
+    .research {
+        font-size: 80px;
+    }
+
+    #checkcircle{
+        font-size: 100px !important;
+    }
+
+    .checkicon {
+        margin-right: 100px;
+    }
+
+    .team {
+        margin: 90px 0px 100px 0px;
+        font-size: 110px;
+    }
+
+    .advisors{
+        margin-left: 0px;
+    }
+
+    .layer1 {
+        width: 100%;
+        margin-bottom: 55px;
+    }
+
+    .group1,.group2{
+        width: 1115px;
+        margin: 126px 0px 20px 25px;
+    }
+
+    .mediablock{
+        width: 1020px;
+        margin: 200px 0px 100px 0px;
+    }
+
+    .layer2 {
+        width: 100%;
+        margin-bottom: 90px;
+    }
+
+    .name {
+        font-size: 75px;
+    }
+
+    .post {
+        margin: 50px 0px 55px 0px;
+        font-size: 55px;
+    }
+
+    #iconid{
+        font-size: 85px !important;
+        margin: 60px 50px 0px 0px !important;
+    }
+
+    .aboutname{
+        font-size: 64px;
+        width: auto;
+        text-align: unset;
+    }
+
+    .width{
+        font-size: 64px;
+        width: auto;
+    }
+
+    .flex{
+        display: block;
+    }
+
+    .partners{     
+        font-size: 65px;
+    }
+
+    .publish{
+        font-size: 130px;
+        width: 920px;
+    }
+
+    .part{
+        width: 1195px;
+    }
+
+    #quoteright{
+        font-size: 60px !important;
+        margin: 150px 90px 0px 40px !important;
+    }
+
+    .left {
+        padding-bottom: 90px;
+    }
+
+    .layer3 {
+        width: 380px;
+        height: 380px;
+        margin-right: 117px;
+    }
+
+    .nativecoin {
+        font-size: 66px;
+        margin: 15px 0px;
+        width: auto;
+    }
+
+    .news{
+        font-size: 55px;
+        padding-right: 0px;
+        margin-bottom: 0px;
+    }
+
+    .para {
+        font-size: 65px;
+        margin: 70px 0px 0px 50px;
+    }
+
+    .quotes {
+        padding: 90px 0px;
+    }
+
+    .bottom{
+        align-items: center;
+        justify-content: center;
+    }
+
+    .bottom1, .bottom2, .bottom4, .bottom5{
+        display: none;
+    }
+
+    .bottom3{
+        width: 280px;
+        margin-right: 0px;
+    }
 }
